@@ -1,7 +1,32 @@
 body{
     margin: 0px;
     padding: 0px;
+    background-color: black !important;
 }
 .navbar-toggler-icon {
     Color: #fff;
+
 }
+.h2-color{
+    color: #fff;
+}
+.chile1{
+    color: #fff;
+}
+.card-text{
+    color: #fff;
+}
+.form-label{
+    color: #fff;
+}
+.iconos-div{
+    margin: 10px 0px 10px 0px;
+    background-color: rgb(14, 69, 133);
+}
+.card-destacados{
+    background-color: aqua;
+}
+
+@media only screen and (max-width: 768px) {
+    /* Estilos específicos para la vista de celular */
+  }
