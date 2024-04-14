@@ -21,17 +21,17 @@ body{
 
 .iconos-div{
     margin: 10px 0px 10px 0px;
-    background-color: rgb(14, 69, 133);
+    background-color: rgb(2, 209, 209);
 }
 .card-img-top img{
     border: solid 1px black;
 }
 .card-destacados{
-    background-color: rgb(14, 69, 133);
+    background-color: rgb(2, 209, 209);
 
 }
 footer{
-    background-color: rgb(14, 69, 133);
+    background-color:rgb(2, 209, 209);
     color: #fff;
     padding-left: 200PX;
     padding-right: 200px;
@@ -39,6 +39,11 @@ footer{
 }
 
 
+
 @media only screen and (max-width: 768px) {
     /* Estilos específicos para la vista de celular */
+.conteiner-chile1{
+    display: none;
+}
+
   }
