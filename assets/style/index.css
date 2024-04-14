@@ -5,7 +5,6 @@ body{
 }
 .navbar-toggler-icon {
     Color: #fff;
-
 }
 .h2-color{
     color: #fff;
@@ -19,13 +18,26 @@ body{
 .form-label{
     color: #fff;
 }
+
 .iconos-div{
     margin: 10px 0px 10px 0px;
     background-color: rgb(14, 69, 133);
 }
-.card-destacados{
-    background-color: aqua;
+.card-img-top img{
+    border: solid 1px black;
 }
+.card-destacados{
+    background-color: rgb(14, 69, 133);
+
+}
+footer{
+    background-color: rgb(14, 69, 133);
+    color: #fff;
+    padding-left: 200PX;
+    padding-right: 200px;
+    padding-top: 10px;
+}
+
 
 @media only screen and (max-width: 768px) {
     /* Estilos específicos para la vista de celular */
